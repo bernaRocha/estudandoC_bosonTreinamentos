@@ -1,6 +1,6 @@
 bin/
 obj/
-*.cdp
+*.cbp
 *.depend
 *.layout
 
