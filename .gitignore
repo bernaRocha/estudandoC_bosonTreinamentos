@@ -1,8 +1,8 @@
 bin/
 obj/
-.cdp
-.depend
-.layout
+*.cdp
+*.depend
+*.layout
 
 # Prerequisites
 *.d
